@@ -1,1 +1,4 @@
 # TextUnderstandingTsetlinMachine
+
+
+Bla bla
