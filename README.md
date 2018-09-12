@@ -1,5 +1,5 @@
 # Text Understanding with the Tsetlin Machine
-The tools available here introduce the first approach to text categorization that leverages the recently introduced Tsetlin Machine. They contain the CUDA and C source code for text categorization with the Tsetlin Machine as implemented in our specific paper on using the Tsetlin Machine for Text Categorization. Links to the publicly available datasets used in the paper are provided in the code.
+The tools available here introduce the first approach to text categorization that leverages the recently introduced [Tsetlin Machine](https://arxiv.org/pdf/1804.01508.pdf). They contain the CUDA and C source code for text categorization with the Tsetlin Machine as implemented in our [specific paper](https://arxiv.org/pdf/xxxx.pdf)) on using the Tsetlin Machine for Text Categorization. Links to the publicly available datasets used in the paper are provided in the code.
 
 ## Background
 Although deep learning in the form of convolutional neural networks (CNN), recurrent neural networks (RNNs), and Long Short Term Memory (LSTM) recently has provided a leap ahead in text categorization accuracy, this leap has come at the expense of interpretability and computational complexity. 
@@ -12,7 +12,7 @@ In all brevity, the Tsetlin Machine represents the terms of a text as propositio
 
 The combination of its computational simplicity, accuracy, and finally results that are highly interpretable, leaves the Tsetlin Machine worthy of further exploration in many text analysis directions.  
 
-We refer to the original seed paper on the Tsetlin Machine, and our specific paper on using the Tsetlin Machine for text categorization, for details on how the method works.
+We refer to the original [seed paper](https://arxiv.org/pdf/1804.01508.pdf) on the Tsetlin Machine, and our [specific paper](https://arxiv.org/pdf/xxxx.pdf) on using the Tsetlin Machine for text categorization, for details on how the method works.
 
 Also notice that research on the Tsetlin Machine for Text Understanding is an on-going research project at the Centre for Artificial Intelligence Research CAIR at the University of Agder, Norway. 
 
