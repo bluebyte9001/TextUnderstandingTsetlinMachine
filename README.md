@@ -14,7 +14,7 @@ The combination of its computational simplicity, accuracy, and finally results t
 
 We refer to the original [seed paper](https://arxiv.org/pdf/1804.01508.pdf) on the Tsetlin Machine, and our [specific paper](https://arxiv.org/pdf/xxxx.pdf) on using the Tsetlin Machine for text categorization, for details on how the method works.
 
-Also notice that research on the Tsetlin Machine for Text Understanding is an on-going project at the Centre for Artificial Intelligence Research CAIR at the University of Agder, Norway. More information will be added as the project advances.
+Also notice that research on the Tsetlin Machine for text understanding is an on-going project at the Centre for Artificial Intelligence Research CAIR at the University of Agder, Norway. More information will be added as the project advances.
 
 ## Requirements
 •	Python 2.7.x https://www.python.org/downloads/
