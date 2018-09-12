@@ -36,7 +36,7 @@ Also notice that research on the Tsetlin Machine for Text Understanding is an on
 To be added.
 
 ## Citation
-Please cite the relevant Tsestlin Machine arXiv papers if you use the Tsetlin Machie in your work:
+Please cite the relevant Tsetlin Machine arXiv papers if you use the Tsetlin Machie in your work:
 
 @article{granmo2018tsetlin, 
 title={The Tsetlin Machine-A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic}, 
