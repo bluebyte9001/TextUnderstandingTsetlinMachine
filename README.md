@@ -1,7 +1,7 @@
 # Text Understanding with the Tsetlin Machine
 The tools available here introduce the first approach to text categorization that leverages the recently introduced Tsetlin Machine. They contain the CUDA and C source code for text categorization with the Tsetlin Machine as implemented in our specific paper on using the Tsetlin Machine for Text Categorization. Links to the publicly available datasets used in the paper are provided in the code.
 
-# Background
+## Background
 Although deep learning in the form of convolutional neural networks (CNN), recurrent neural networks (RNNs), and Long Short Term Memory (LSTM) recently has provided a leap ahead in text categorization accuracy, this leap has come at the expense of interpretability and computational complexity. 
 
 The Tsetlin automaton developed by M.L. Tsetlin in the Soviet Union in the late 1950s represents a fundamental and versatile learning mechanism; arguably even more so than the artificial neuron. While the Tsetlin Machine is able to form complex non-linear patterns, the propositional formulae it composes have also turned out to be particularly suitable for human interpretation.
@@ -16,7 +16,7 @@ We refer to the original seed paper on the Tsetlin Machine, and our specific pap
 
 Also notice that research on the Tsetlin Machine for Text Understanding is an on-going research project at the Centre for Artificial Intelligence Research CAIR at the University of Agder, Norway. 
 
-# Requirements
+## Requirements
 •	Python 2.7.x https://www.python.org/downloads/
 
 •	Numpy http://www.numpy.org/
@@ -32,10 +32,10 @@ Also notice that research on the Tsetlin Machine for Text Understanding is an on
 •	Gcc http://gcc.gnu.org
 
 
-# Instructions for use
+## Instructions for use
 To be added.
 
-# Citation
+## Citation
 Please cite the relevant Tsestlin Machine arXiv papers if you use the Tsetlin Machie in your work:
 
 @article{granmo2018tsetlin, 
@@ -45,5 +45,5 @@ journal={arXiv preprint arXiv:1804.01508}, year={2018}
 
 {Reference to the second paper on using the Tsetlin Machine for Text Categorization is temporarily unavailable until published]. 
 
-# Licence
+## Licence
 To be added.
